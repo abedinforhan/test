@@ -1,0 +1,10 @@
+/* .vehicle{
+    display:flex;
+    margin-top: 100px;
+    margin-bottom: 200px;
+} */
+.home-body{
+    border: 1px solid rgb(138, 123, 123);
+    background-color: rgb(243, 115, 115);
+    height: 100vh;
+}

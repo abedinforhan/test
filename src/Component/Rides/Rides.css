@@ -1,0 +1,11 @@
+
+.ride{
+    display:flex !important;
+    flex-wrap: wrap;
+    align-items:center;
+    justify-content:space-evenly;
+}
+.ride img{
+    height:60px;
+    width:60px;
+}

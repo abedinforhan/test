@@ -1,0 +1,17 @@
+[{
+  "id": 1,
+  "name": "BIKE",
+  "img": "https://imgd.aeplcdn.com/1280x720/bw/ec/35849/Royal-Enfield-Classic--350-Signals-Side-134409.jpg?wm=0"
+}, {
+ "id": 2,
+  "name": "BUS",
+  "img": "http://www.uttaramotorsltd.com/wp-content/uploads/2016/02/MT-Bus.png"
+}, {
+  "id": 3,
+  "name": "CAR",
+  "img": "https://static.autox.com/uploads/cars/2021/01/bmw-3series-gran-limousine.jpg"
+}, {
+  "id": 4,
+  "name": "TRAIN",
+  "img": "https://thumbs.dreamstime.com/b/commuter-train-coming-out-white-background-44747920.jpg"
+}]
